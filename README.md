@@ -44,7 +44,7 @@ Earlier object-oriented coursework: [EyeTester](https://github.com/ionutboanc/Ey
 
 | Area | Tools |
 |---|---|
-| Machine learning | PyTorch, TensorRT, NVIDIA Jetson, anomalib, scikit-learn, MLflow |
+| Machine learning | PyTorch, TensorRT, anomalib, scikit-learn, opencv, MLflow, langchain, langgraph |
 | LLMs | RAG pipelines, Azure OpenAI |
 | Languages | Python, Java, C#, C++, JavaScript, SQL |
 | Data | pandas, NumPy, Power BI, PostgreSQL, MySQL, SQL Server |
