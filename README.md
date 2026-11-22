@@ -1,18 +1,18 @@
 # Hi, I'm Ionut 👋
 
-I'm a Data Scientist at **Schaeffler** in Brașov, Romania, and a PhD student in computer science at **Transilvania University of Brașov**. At the plant I am the main point of contact for AI, which means I scope use cases with the process and quality teams and then build them, from the first prototype to the system running on the line.
+I'm a Data Scientist at **Schaeffler** in Brașov, Romania, and a PhD student in computer science at **Transilvania University of Brașov**. At the plant I am the main point of contact for AI, which means I scope use cases with teams and then build them, from the first prototype to the system running in production.
 
 ## 🏭 What I build at work
 
 Most of my day-to-day work is internal, so the code is not on GitHub. In short:
 
-- 🔍 **Visual defect detection on the edge.** An end-to-end computer vision system, from choosing the hardware to deploying the model with TensorRT on an NVIDIA Jetson Orin Nano, including fine-tuning on the device itself.
+- 🔍 **Visual defect detection on the edge.** An end-to-end AI vision system, from choosing the hardware to deploying the model with TensorRT on an NVIDIA Jetson Orin Nano, including fine-tuning on the device itself.
 - 📚 **Document assistant.** A retrieval-augmented (RAG) chatbot over the plant's internal procedures. Employees ask questions in plain language and get answers that point to the exact document and section.
 - 📈 **Anomaly detection.** Models that screen large sets of production images to find parts that look different from the rest.
 
 ## 🔬 Research
 
-My PhD is about **memory-efficient training for edge AI**. Training and fine-tuning high-resolution vision models directly on devices like the Jetson runs out of memory long before it runs out of compute, and I study the techniques that close that gap, such as activation compression, compressed-domain inputs and partial fine-tuning.
+My PhD is about **memory-efficient learning processes for AI**. Researching and understanding not only how to train and fine-tune models in a more efficient way, but also how to make AI models actually learn better.
 
 ## 🧭 Background
 
